@@ -1,4 +1,4 @@
-# Rocketnews
+# RN Infinite Scroll
 
 ## About this Project
 
